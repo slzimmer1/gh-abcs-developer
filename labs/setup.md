@@ -8,12 +8,12 @@ References:
 
 ## 1.  Fork the current repository 
 
-1. Fork the current repository [gh-abcs-developer](https://github.com/githubabcs/gh-abcs-developer)
+1. Fork the current repository [gh-abcs-developer](https://github.com/githubdevopsabcs/gh-abcs-developer)
 2. _(Optional)_ Clone the repository by importing it into your own account.
 
 ## 2. _(Optional)_ Creating a repository from current template
 
-1. Navigate to the main page of the repository [gh-abcs-developer](https://github.com/githubabcs/gh-abcs-developer)
+1. Navigate to the main page of the repository [gh-abcs-developer](https://github.com/githubdevopsabcs/gh-abcs-developer)
 2. Click `Use this template`
 3. Follow the instructions to create your own repository from this template
 4. Name the repository `gh-abcs-developer-[USERNAME]`
